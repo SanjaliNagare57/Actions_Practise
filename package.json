@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/SanjaliNagare57/Actions_Practise/issues"
   },
-  "homepage": "https://github.com/SanjaliNagare57/Actions_Practise#readme"
+  "homepage": "https://github.com/SanjaliNagare57/Actions_Practise#readme",
+  "devDependencies": {
+    "@actions/core": "^1.9.1",
+    "@actions/github": "^5.0.3"
+  }
 }
